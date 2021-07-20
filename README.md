@@ -10,9 +10,15 @@ I hope my projects will reflect that mindset!
 
 Technology-wise I'm currently interested in Web development
 
-HTML                CSS               JAVASCRIPT                
-PYTHON              C#                POSTGRESQL
-REACT               JQUERY            REACT NATIVE
+HTML                
+CSS               
+JAVASCRIPT                
+PYTHON              
+C#                
+POSTGRESQL
+REACT               
+JQUERY            
+REACT NATIVE
 
 Find my works here and let me know if you want to collaborate 
 
