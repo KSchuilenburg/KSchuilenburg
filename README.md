@@ -8,7 +8,8 @@ My passion is nature and sustainability and I will do anything to make a positiv
 
 I hope my projects will reflect that mindset!
 
-Technology-wise I'm currently interested in Web development
+Technology-wise I'm currently interested in Game development
+I love making anything related to games; serious games but also games for fun or simulations
 
 HTML                
 CSS               
