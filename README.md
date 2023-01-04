@@ -13,13 +13,16 @@ I love making anything related to games; serious games but also games for fun or
 
 HTML                
 CSS               
-JAVASCRIPT                
+JAVASCRIPT  
+
 PYTHON              
-C#                
+C#
+
 POSTGRESQL
-REACT               
-JQUERY            
+
+REACT                          
 REACT NATIVE
+
 UNITY
 
 Find my works here and let me know if you want to collaborate 
